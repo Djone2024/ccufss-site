@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Djone Joseph</title>
+	<meta charset="utf-8">
+
+</head>
+<body>
+                 
+
+	<img src="imagens/foto.jpeg" width="150">
+	<h1 style="color: blue;">Eu Sou Djone Joseph,</h1>
+	
+
+	<p> sou haitiano morando no Brasil, cursando naCiencia da <br>
+		Computaçao da Universidade Federal da Fronteira Sul,estou<br>
+		na primeira fase.Gosto muito da tecnologia,apaixonando pelas <br>
+		novas tecnologias.
+
+	</p>
+	<hr>
+</body>
+</html>
